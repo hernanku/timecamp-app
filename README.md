@@ -1,5 +1,5 @@
 # Getting Started
-Application project used to test different devops possibilities
+Application project used to test different devops possibilities  
 - github actions
 - gitlab pipelines
 
